@@ -1,8 +1,6 @@
--- Create a MySQL Database called bamazon --
 CREATE DATABASE Bamazon;
 USE Bamazon;
 
--- Then create a Table inside of that database called products --
 CREATE TABLE products (
 	item_id INTEGER(11) AUTO_INCREMENT NOT NULL,
 	product_name VARCHAR(30) NOT NULL,
@@ -12,7 +10,6 @@ CREATE TABLE products (
 	PRIMARY KEY (item_id)
 );
 
--- Populate Products Table --
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES  ('Dove Shampoo', 'Cosmetics', 5.75, 500),
 		('Dove Conditioner', 'Cosmetics', 6.25, 627),

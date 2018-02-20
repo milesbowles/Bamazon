@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/milesbowles/Bamazon">
-        <img src="https://github.com/milesbowles/Bamazon/blob/master/screenshots/bamzon-preview.gif" alt="Bamazon Demo GIF" width="400"/>
+        <img src="https://github.com/milesbowles/Bamazon/blob/master/screenshots/bamzon-demo.gif" alt="Bamazon Demo GIF" width="600"/>
     </a>
 </div>
 
@@ -10,7 +10,7 @@ Bamazon is a Amazon-like CLI shopping app built with InquirerJS and MySQL. Selec
 
 ## Built With
 
-* [MySQL]() - Database
+* [MySQL](https://www.mysql.com/) - Database
 * [Inquirer](https://www.npmjs.com/package/inquirer) - CLI event handling
 
 

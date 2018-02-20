@@ -1,6 +1,17 @@
-# BAMAZON
+<div align="center">
+    <a href="https://github.com/milesbowles/Bamazon">
+        <img src="https://github.com/milesbowles/Bamazon/blob/master/screenshots/bamzon-preview.gif" alt="Bamazon Demo GIF" width="400"/>
+    </a>
+</div>
 
-#### If you happen to be searching for a way to shop via the commandline, search no further! Bamazon is a CLI shopping app. Download and enjoy!
+# Bamazon
 
-## Demo
-![GIF of Bamazon in action](https://github.com/milesbowles/Bamazon/blob/master/images/bamzon-preview.gif)
+Bamazon is a Amazon-like CLI shopping app built with InquirerJS and MySQL. Select which products you would like to buy from a list of available products. Then specify the quantity you want. Error handling built-in so you can't enter bad input or do things such as buy items that are out of stock.
+
+## Built With
+
+* [MySQL]() - Database
+* [Inquirer](https://www.npmjs.com/package/inquirer) - CLI event handling
+
+
+#### Enjoy!
